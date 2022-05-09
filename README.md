@@ -1,1 +1,6 @@
 # OSA_Microbiome
+This is the code accompanying the publication: 
+Anaerobic pathogens are associated with OSA severity and may contribute to the pathophysiology via amino-acid depletion: the “Hispanic Community Health Study/Study of Latinos”
+
+Summary
+Both the human microbiome and obstructive sleep apnea (OSA) have been linked to multiple metabolic disorders. Here, we investigated the possible associations between the microbiome composition and function, and the measures of OSA severity in participants from a cohort study - the Hispanic Community Health Study/Study of Latinos (HCHS/SOL). Bacterial-Wide Association Analysis (BWAS) adjusted for clinical factors, lifestyle and co-morbidities uncovered several uncommon anaerobic human pathogens associated with OSA severity. OSA was also associated with the depletion of several amino-acids in the blood, yet neither diet nor gene expression revealed any changes in the production or consumption of these in the host. Our results suggest a novel component of OSA pathophysiology, where anaerobic bacteria deplete certain amino-acids from the host, which affects normal homeostasis, further contributing to OSA phenotypes. Future work should consider diagnostics via anaerobic bacteria detection as well as possible interventions via antibiotics and amino-acid supplementation.
